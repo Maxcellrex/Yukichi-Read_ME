@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Bravelysecond.jpeg" alt="Profile Banner" width="100%">
+  <img src="./Bravely%20second.jpg" alt="Profile Banner" width="100%">
 </p>
 
 # 👋 Hi, Peter here!
