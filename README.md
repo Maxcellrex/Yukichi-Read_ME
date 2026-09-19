@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-An engineering student at **BINUS-ASO**, majoring in **Automotive and Robotics Engineering**. Currently striving for self-improvement, participating in various school clubs and other extracurricular activities such as **AEROBASE** and **Base-CORE**. A big fan of **Weiss Schwarz** and **laid-back animes**.
+An engineering student at **BINUS-ASO**, majoring in **Automotive and Robotics Engineering**. Currently striving for self-improvement, participating in various school clubs and other extracurricular activities such as **AEROBASE** and **Base-CORE**. A big fan of **Weiss Schwarz**, **laid-back animes**, and **IEMS**.
 
 ## 🛠️ Tech Stack & Tools
 
