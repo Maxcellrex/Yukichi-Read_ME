@@ -2,7 +2,7 @@
   <img src="./Bravely%20second.jpg" alt="Profile Banner" width="100%">
 </p>
 
-# 👋 Hi, Peter here!
+# 👋 Hi, Peter/Yukichi here!
 
 ## 👨‍💻 About Me
 
